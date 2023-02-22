@@ -1,5 +1,5 @@
 # Java ITE Project
-## How to septup?
+## How to setup?
 
 - Change the compiler compliance level to 1.5
 
